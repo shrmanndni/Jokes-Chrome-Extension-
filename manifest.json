@@ -1,0 +1,18 @@
+{
+    "manifest_version":2,
+    "name":"Jokes",
+    "version":"0.0.1",
+    "description":"Why so serious?",
+    "browser_action":{
+       "default_popup":"index.html",
+       "default_icon":"logo128.png"
+    },
+    "permissions":["activeTab"],
+    "icons":{
+        "254":"logo128.png"
+    }
+
+
+    }
+
+
